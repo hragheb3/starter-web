@@ -9,7 +9,7 @@ The super dober solution
 $ apt-get update
 $ apt-get install -y nginx
 ```
-## Purpose
+## Purpose is great
 
 Sample website with plenty of files for demos
 
