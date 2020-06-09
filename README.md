@@ -1,7 +1,6 @@
 # Starter Web Repo
 
-MNC - Metering North Star
-The super dober solution
+I dislike this a lot
 
 ## Introduction
 ![google](https://www.google.com)
