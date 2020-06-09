@@ -3,8 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    Hisham -- Java Developer -- hisham.aragheb@gmail.com
+	
 # THANKS
 
     <name>
