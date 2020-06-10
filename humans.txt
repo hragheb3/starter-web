@@ -9,8 +9,8 @@
 
     All my students. Please leave a review
 
-
+    
 # TECHNOLOGY COLOPHON
-
+    Java, EJB
     HTML5, CSS3
     jQuery, Modernizr
